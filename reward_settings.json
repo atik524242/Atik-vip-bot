@@ -1,0 +1,14 @@
+{
+  "reward_per_otp": 0.5,
+  "currency": "৳",
+  "min_withdraw": 50.0,
+  "service_rewards": {
+    "instagram": 0.5,
+    "facebook": 0.5,
+    "whatsapp": 0.0,
+    "telegram": 0.0,
+    "binance": 0.0,
+    "pcclone": 0.0,
+    "fib": 0.0
+  }
+}
