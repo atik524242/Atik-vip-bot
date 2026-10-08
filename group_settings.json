@@ -1,0 +1,33 @@
+{
+  "otp_group_id": -1003850531522,
+  "otp_group_link": "https://t.me/+BC0-N3KJkiYyOTE1",
+  "auto_delete": false,
+  "auto_delete_seconds": 3600,
+  "channel2": "https://t.me/+hEL3d0gv6zk4ZmI1",
+  "bot_link": "https://t.me/hot_otp_bot",
+  "support_id": "",
+  "group_otp_send": true,
+  "group_tag": "PB",
+  "numbers_per_batch": 3,
+  "v2_active_panel": "stex",
+  "v3_enabled": false,
+  "extra_groups": [
+    {
+      "id": -1003738666960,
+      "bot_link": "https://t.me/pbpremium_otp_bot",
+      "channel_link": "https://t.me/+JsT0epbhAY8zNDY1"
+    }
+  ],
+  "v2_user_mode": true,
+  "fastx_api_key": "MURAD_88F18AB46B13F781BD52C4E1",
+  "force_join": [
+    {
+      "name": "OTP Group",
+      "type": "group",
+      "id": -1003850531522,
+      "link": "https://t.me/+BC0-N3KJkiYyOTE1",
+      "enabled": true,
+      "source": "otp_group"
+    }
+  ]
+}

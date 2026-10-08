@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Facebook \ud83d\udc8e",
+    "key": "facebook"
+  },
+  {
+    "label": "WhatsApp",
+    "key": "whatsapp"
+  },
+  {
+    "label": "Telegram",
+    "key": "telegram"
+  },
+  {
+    "label": "Instagram \u2192",
+    "key": "instagram"
+  },
+  {
+    "label": "Binance",
+    "key": "binance"
+  },
+  {
+    "label": "Pc Clone",
+    "key": "pcclone"
+  },
+  {
+    "label": "Fib",
+    "key": "fib"
+  }
+]
